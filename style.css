@@ -503,6 +503,7 @@ html{
 }
 .portfolio .galeria .project img{
     width: 100%;
+    height: 17rem;
     display: block;
 }
 .portfolio .galeria .project .overlay{
